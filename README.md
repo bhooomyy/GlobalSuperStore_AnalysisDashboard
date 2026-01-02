@@ -98,7 +98,7 @@ Shows SLA performance across priority levels:
 - Medium  
 - High  
 - Critical  
-![Category wise Profit](images/main.jpeg)
+![Category wise Profit](images/category.jpeg)
 **Insight:**  
 Used to evaluate whether high-priority orders are being serviced within acceptable timelines.
 
@@ -153,7 +153,7 @@ Enables year-over-year performance comparison and trend analysis.
 - Power BI (Data Modeling & Visualization)
 - DAX (Calculated Measures & KPIs)
 - PowerQuery
-- Global Superstore Dataset (images/https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
+- Global Superstore Dataset (https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
 
 ---
 
