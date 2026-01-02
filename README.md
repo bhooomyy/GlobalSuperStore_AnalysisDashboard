@@ -74,7 +74,7 @@ Breaks down profit across:
 - Furniture  
 - Office Supplies  
 - Technology  
-![Category wise Profit](Img/category.jpeg)
+![Category wise Profit](images/category.jpeg)
 **Insight:**  
 Helps determine which product categories drive the most profit and where optimization is required.
 
