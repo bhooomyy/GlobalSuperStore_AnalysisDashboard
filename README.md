@@ -86,7 +86,7 @@ Further drills down Technology into:
 - Copiers  
 - Machines  
 - Phones  
-![alt text](<WhatsApp Image 2026-01-02 at 16.45.27 (9)-1.jpeg>)
+![Sub category wise Profit](images/subcategory.jpeg)
 **Insight:**  
 Highlights high-margin sub-categories and underperforming products.
 
@@ -98,7 +98,7 @@ Shows SLA performance across priority levels:
 - Medium  
 - High  
 - Critical  
-
+![Category wise Profit](images/main.jpeg)
 **Insight:**  
 Used to evaluate whether high-priority orders are being serviced within acceptable timelines.
 
@@ -119,7 +119,7 @@ Displays customer count by country, including:
 - France  
 - Germany  
 - Mexico  
-
+![Category wise Profit](images/country.jpeg)
 **Insight:**  
 Identifies key markets and regional demand distribution.
 
@@ -127,7 +127,7 @@ Identifies key markets and regional demand distribution.
 
 ### 8. Customer Distribution by State (Germany – Drill Down)
 Provides a deeper regional analysis within Germany at the **state level**.
-
+![Category wise Profit](images/state.jpeg)
 **Insight:**  
 Supports localized marketing, logistics planning, and regional strategy decisions.
 
@@ -135,7 +135,7 @@ Supports localized marketing, logistics planning, and regional strategy decision
 
 ### 9. Customer Distribution by City (Germany – Drill Down)
 Further drill-down to the **city level** for granular insights.
-
+![Category wise Profit](images/city.jpeg)
 **Insight:**  
 Helps identify high-density customer hubs and potential growth areas.
 
@@ -152,7 +152,8 @@ Enables year-over-year performance comparison and trend analysis.
 ## Tools & Technologies Used
 - Power BI (Data Modeling & Visualization)
 - DAX (Calculated Measures & KPIs)
-- Global Superstore Dataset
+- PowerQuery
+- Global Superstore Dataset (images/https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
 
 ---
 
